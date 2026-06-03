@@ -1,6 +1,6 @@
 # InfoSec GRC — Management Review & ISMS Maturity Assessment
  
-A group case study for a fictional medtech company, carried out as a **management review** (ISO/IEC 27001, clause 9.3) using the **MSB Metodstöd** and the **Mognadsdialogen** maturity model. I led the group work.
+A group case study for a fictional medtech company, carried out as a **management review** (ISO/IEC 27001) using the **MCF Metodstöd** and the **Mognadsdialogen** maturity model. I led the group work.
 
 ---
 
@@ -41,7 +41,7 @@ The work follows the Plan–Do–Check–Act cycle that the ISMS is built on. Th
 - **Plan** — risk, context, gap analysis, business analysis
 - **Do** — objectives, governance documents, information classification, training
 - **Check** — monitor, audit, evaluate
-- **Act** — management review (ISO 27001, clause 9.3)
+- **Act** — management review (ISO 27001)
 
  
 ---
@@ -66,7 +66,7 @@ Four maturity levels, assessed across six perspectives:
  
 ## Frameworks & standards
  
-ISO/IEC 27001 · ISO/IEC 27002 · MSB Metodstöd för LIS · Mognadsdialogen · CIA triad · NIS2 · GDPR
+ISO/IEC 27001 · ISO/IEC 27002 · MFS Metodstöd för LIS · Mognadsdialogen · CIA triad · NIS2 · GDPR
  
 ---
  
